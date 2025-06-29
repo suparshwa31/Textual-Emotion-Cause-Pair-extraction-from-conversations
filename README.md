@@ -1,5 +1,5 @@
 
-# Textual Emotion-Cause Pair Extraction in Conversations
+# Contextual Emotion-Cause Detection
 
 ## Overview
 This project was part of SemEval 2024 Task-3 (Subtask 1), focusing on developing a model to extract emotion-cause pairs from conversations. The dataset used was derived from the sitcom "FRIENDS." The primary objective was to predict the emotion expressed in a dialogue and identify the cause of that emotion from the conversation context.
